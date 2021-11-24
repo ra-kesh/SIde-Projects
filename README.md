@@ -1,4 +1,4 @@
 # SIde-Projects 
 
-### Projects I am making for myself and friend
+### Projects I am making for myself and friends
 
