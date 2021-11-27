@@ -1,6 +1,5 @@
 # SIde-Projects 
 
-### Projects I am making for myself and friends
 
 | Project Name | Source Code   | Live Link     | Status      |
 | :---         |     :---      |          :--- |        :--- |
